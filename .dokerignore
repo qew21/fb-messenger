@@ -1,0 +1,85 @@
+# Ignore all log files
+*.log
+
+# Ignore version control directories
+.git
+.gitignore
+.svn
+.hg
+
+# Ignore all Markdown documentation
+*.md
+
+# Ignore sample configuration files
+*.sample
+
+# Ignore temporary files and directories generated during compilation
+tmp/
+temp/
+obj/
+debug/
+output/
+binary/
+bin/
+vendor/
+
+# Ignore specific Go workspace files
+*.o
+*.a
+*.so
+*.dylib
+.DS_Store
+*.swp
+*.out
+*.exe
+
+# Ignore Go module files
+go.sum
+go.mod
+
+# Ignore pre-compiled static libraries in the vendor directory
+/vendor/
+
+# Ignore automatically generated files
+.idea/
+*.test
+*.test.*
+_test.go
+*.bench
+*.bench.*
+_bench.go
+
+# Ignore editor configuration and backup files
+*.json
+*.yml
+*.yaml
+*.xml
+*.toml
+*.ini
+*.cfg
+*.conf
+*.config
+*.d
+
+# Ignore all certificate files
+*.cert
+*.key
+*.pem
+
+# Ignore the Dockerfile if you plan to use it outside the build context
+# Dockerfile
+
+# Ignore all markdown files, documentation, and related license files
+*.md
+LICENSE
+LICENSE.txt
+license.txt
+README
+README.md
+readme.md
+
+# Ignore other unrelated files
+notes/
+examples/
+*.bak
+*.tmp

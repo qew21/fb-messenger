@@ -1,0 +1,26 @@
+{
+    "entry": [
+        {
+            "id": "0",
+            "time": 1710061084,
+            "changes": [
+                {
+                    "field": "ratings",
+                    "value": {
+                        "comment_id": "44444444_444444444",
+                        "created_time": 1710061084,
+                        "item": "rating",
+                        "open_graph_story_id": "444444",
+                        "rating": 4,
+                        "recommendation_type": "POSITIVE",
+                        "review_text": "I like this!",
+                        "reviewer_id": "444444",
+                        "reviewer_name": "Test user",
+                        "verb": "add"
+                    }
+                }
+            ]
+        }
+    ],
+    "object": "page"
+}

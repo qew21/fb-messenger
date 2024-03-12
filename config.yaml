@@ -1,0 +1,11 @@
+HOST: 0.0.0.0
+PORT: 443
+KEY_FILE: ****.key
+CERT_FILE: ****.pem
+TOKEN: webhook
+LATEST_API_VERSION: v19.0
+PREDICT_URL: http://127.0.0.1:5000/predict
+QIANWEN_KEY: ****
+PAGE_ID: ****
+PAGE_ACCESS_TOKEN: ****
+APP_SECRET: ****
